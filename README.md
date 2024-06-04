@@ -22,6 +22,7 @@ bench config [options]- auto update[on/off],http-timeout,restart-supervisor_on_d
 bench setup[components] - auto-update, backups, config, env, nginx, procfile, production, redis, sudoers, supervisior, firewall, requirements
 
 Development commands
+
 bench init frappe-bench - It intialise the frappe bench
 cd frappe-bench - It moves the directory to frappe bench
 bench start- It starts the bench
